@@ -31,10 +31,12 @@ WTF is a Job??? Well the reality of the situation is that servers are not always
 I want to note this project is done with professional standard in mind, so I log everything of value and have a notification set to inform me if the server is down or of ANY  issues. Additionally, there is a lot of error checking, and validation to make sure the project is always working. A lot of the ways I am doing instant reveal, opensea refresh, and error checking jobs are rarely done before strategies within NFTs, that I consider to be a trade secrets. Ultimately, the project demand went to nothing after the first 2 weeks. I tried to add new features and market and collaborate, but managing this complex of a project alone was difficult. Additionally, the experiment based on POW and passive income while a noble pursuit, after this, I do not think it is a valid use case for NFTs. 
 
 
-Front-end :
+Front-end:
+
 There is not anything particularly special about the front end. I used React + js to create the frontend. Check it out: https://deepspace-ce530.web.app/ 
 
-Closing thoughts :
+Closing thoughts:
+
 For this project, I was the sole developer, moderation, and promoter.  I created a front-end, multiple smart contract, backend to create images based on a mint event in real-time, and cron-job to verify and update metadata if errors occur. On release, this project had only a mint and burn functionality but, based on community feedback, was also updated to include a combine feature, where users can combine two NFTs to create a new one.
 
 Throughout my experiences, I have worked with stakeholders to create the best product and listened to user feedback to increase product offerings. I am a problem-solver and dedicated partner liaison, and I believe that I would be an excellent addition to your team.
