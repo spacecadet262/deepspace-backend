@@ -1,0 +1,43 @@
+{
+  "name": "deepspace-backend",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --unhandled-rejections=warn --experimental-modules --experimental-json-modules ./src/main.js",
+    "start-job": "MODE=JOB node --unhandled-rejections=warn --experimental-modules --experimental-json-modules ./src/main.js",
+    "start-burn": "MODE=BURN node --unhandled-rejections=warn --experimental-modules --experimental-json-modules ./src/main.js",
+    "script": "node --unhandled-rejections=warn --experimental-modules --experimental-json-modules ./src/script.js",
+    "predeploy": "node --experimental-modules --experimental-json-modules ./src/predeploy.js",
+    "postdeploy": "node --experimental-modules --experimental-json-modules ./src/postdeploy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.4",
+    "@openzeppelin/contracts": "^4.2.0",
+    "aws-sdk": "^2.987.0",
+    "axios": "^0.21.4",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "ethereum-input-data-decoder": "^0.3.5",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1",
+    "pino": "^6.13.2",
+    "redis": "^3.1.2",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.3.5"
+  },
+  "engines": {
+    "node": "15.x"
+  }
+}
