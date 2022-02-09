@@ -1,5 +1,5 @@
 Deep space backend:
-Deepspace was an experimental novel project that tried to combine client-side proof-of-work with NFT's to create an open edition NFT that had intrinsic value and gave holders a passive income source. This was experimental in the sense that a proof-of-work combined with passive income was never done before, so with this project, I was aiming to see if this was a viable use-case for NFTs. Ultimately the project failed, but here is a technical walkthrough of the project along with the context of technical decisions.
+Deepspace was an experimental novel project that tried to combine client-side proof-of-work with NFTs to create an open edition NFT that had intrinsic value and gave holders a passive income source. This was experimental in the sense that a proof-of-work combined with passive income was never done before, so with this project, I was aiming to see if this was a viable use-case for NFTs. Ultimately the project failed, but here is a technical walkthrough of the project along with the context of technical decisions.
 
 Let's start with the backend side of things which can be found here: https://github.com/spacecadet262/deepspace-backend
 
