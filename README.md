@@ -34,4 +34,9 @@ I want to note this project is done with professional standard in mind, so I log
 Front-end 
 There is not anything particularly special about the front end. I used React + js to create the frontend. Check it out: https://deepspace-ce530.web.app/ 
 
+Closing thoughts
+For this project, I was the sole developer, moderation, and promoter.  I created a front-end, multiple smart contract, backend to create images based on a mint event in real-time, and cron-job to verify and update metadata if errors occur. On release, this project had only a mint and burn functionality but, based on community feedback, was also updated to include a combine feature, where users can combine two NFTs to create a new one.
+
+Throughout my experiences, I have worked with stakeholders to create the best product and listened to user feedback to increase product offerings. I am a problem-solver and dedicated partner liaison, and I believe that I would be an excellent addition to your team.
+
 
