@@ -15,7 +15,7 @@ Feel free to look around, but here are some points worthy of note:
 
 Burner contract - https://github.com/spacecadet262/deepspace-backend/blob/main/ethereum/contracts/Burner.sol
 
-This project, in its current functionality, had high demand, becoming an opensea top 100 project within a few days of launch. However, passive income was a significant contributing factor to demand, and when the user count reached a critical mass, the rewards were not good enough and demanded dramatically lessened. As a result, the experiment proved to be a failure, so I had to adapt to provide additional features to the project to survive. Thus the Burner contract was born. Due to a lucky inclusion of the giftRock function in the main contract, I created a wrapper around the main contract called Burner to do additional things, including collision (burn) and jackpot.
+This project, in its current functionality, had high demand, becoming an opensea top 100 project within a few days of launch. However, the prospect of passive income was a significant contributing factor to demand, and when the user count reached a critical mass, the rewards were not good enough and demand dramatically lessened. As a result, the experiment proved to be a failure, so I had to adapt to provide additional features for the project to survive. Thus the Burner contract was born. Due to a lucky inclusion of the giftRock function in the main contract, I created a wrapper around the main contract called Burner to do additional things, including collision (burn) and jackpot.
 
 Key points:
 
